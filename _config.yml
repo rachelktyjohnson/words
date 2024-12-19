@@ -3,8 +3,8 @@ title_left    : "RACHEL"
 title_right   : "JOHNSON" # default: ""
 description   : "Thoughts, musings, writings, words"
 keywords      : "blog, academic, gamification, music, piano, design, development"
-url           : https://rachelktyjohnson.github.io # site url
-baseurl       : "/words" # apply repo name like "/words" if used under gh-pages branch, else (under master branch) just leave empty/blank
+url           : https://words.racheljohnson.net # site url
+baseurl       : "" # apply repo name like "/words" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
