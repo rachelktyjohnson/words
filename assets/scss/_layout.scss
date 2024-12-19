@@ -30,6 +30,7 @@ body {
 body {
   background-color: $base-background-color;
   background-image: url("../images/background.png");
+  background-attachment: fixed;
 }
 
 hr {
