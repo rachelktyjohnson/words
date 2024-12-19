@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "WORD"
-title_right   : "S" # default: ""
+title_left    : "RACHEL"
+title_right   : "JOHNSON" # default: ""
 description   : "Thoughts, musings, writings, words"
 keywords      : "blog, academic, gamification, music, piano, design, development"
 url           : https://rachelktyjohnson.github.io # site url
