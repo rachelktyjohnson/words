@@ -23,10 +23,10 @@ As I navigate these complexities of research ethics and participant identity, I 
 ---
 
 ### References
-[^1] Guenther, K. M. (2009). The politics of names: Rethinking the methodological and ethical significance of naming people, organizations, and places. _Qualitative Research_, _9_(4), 411–421. [https://doi.org/10.1177/1468794109337872](https://doi.org/10.1177/1468794109337872)
+[^1]: Guenther, K. M. (2009). The politics of names: Rethinking the methodological and ethical significance of naming people, organizations, and places. _Qualitative Research_, _9_(4), 411–421. [https://doi.org/10.1177/1468794109337872](https://doi.org/10.1177/1468794109337872)
 
-[^2] Hammersley, M. (2014). On the ethics of interviewing for discourse analysis. _Qualitative Research_, _14_(5), 529–541. [https://doi.org/10.1177/1468794113495039](https://doi.org/10.1177/1468794113495039)
+[^2]: Hammersley, M. (2014). On the ethics of interviewing for discourse analysis. _Qualitative Research_, _14_(5), 529–541. [https://doi.org/10.1177/1468794113495039](https://doi.org/10.1177/1468794113495039)
 
-[^3] Iphofen, R. (2011). Ethical decision making in qualitative research. _Qualitative Research_, _11_(4), 443–446. [https://doi.org/10.1177/1468794111404330](https://doi.org/10.1177/1468794111404330)
+[^3]: Iphofen, R. (2011). Ethical decision making in qualitative research. _Qualitative Research_, _11_(4), 443–446. [https://doi.org/10.1177/1468794111404330](https://doi.org/10.1177/1468794111404330)
 
-[^4] Sabar, G., & Sabar Ben-Yehoshua, N. (2017). ’I’ll sue you if you publish my wife’s interview’: Ethical dilemmas in qualitative research based on life stories. _Qualitative Research_, _17_(4), 408–423. [https://doi.org/10.1177/1468794116679727](https://doi.org/10.1177/1468794116679727)
+[^4]: Sabar, G., & Sabar Ben-Yehoshua, N. (2017). ’I’ll sue you if you publish my wife’s interview’: Ethical dilemmas in qualitative research based on life stories. _Qualitative Research_, _17_(4), 408–423. [https://doi.org/10.1177/1468794116679727](https://doi.org/10.1177/1468794116679727)
