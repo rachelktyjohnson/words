@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Literature Review - Dehghanzadeh et al. (2025)"
+title: "Literature Review - Dehghanzadeh et al. (2024)"
 comments: false
 description: ""
 keywords: "gamification, systematic review, literature review"
@@ -13,6 +13,7 @@ The authors found that articles associated positive findings to a student's inte
 While the history of gamification research as found by the the authors promote a generally positive outlook on the topic, it is not without it's limitations. Studies in their systematic review also revealed both neutral and unfavourable learning outcomes due to gamification. The authors attribute this to reasons that, to me, fall under 2 main categories:
 - **Gamification implementation must be adaptive.** Dehghanzadeh et al. (2024) finds that "the successful implementation of gamification in educational contexts requires an adaptive (and not one-fits-all) approach" (p. 56). For example, the review's findings showed that female students and low-achiever students were less enticed by competition (eg, leaderboards), whereas older users were more influenced this due to social comparison. This consideration is not just regarding users of a gamified learning platform, but also regarding intended learning outcomes.
 - **Gamification will not work on its own.** The authors place a strong emphasis on the idea of "instructional supports" within gamification in order for it to be effective in improving student engagement and learning. They state that "without instructional support in gamified learning environments, students are more likely to learn to play the game (ie, in-game performance) rather than learn domain-specific knowledge and skills" (Dehghanzadeh et al., 2024, p. 58). Instructional supports included feedback within the gamified platform, advice to the student within the platform, and interactivity between student and teacher. However, the authors did not find a specific instructional support that can be used exclusively across the board, which mirrors the previous section: **gamification implementation must be adaptive.**
+
 These are two strong statements that I intend to take with my into my research.
 
 Just like many other systematic reviews, this one also compiles a list of game elements. The authors found points to appear the most across their list of studies, likely due to it's pull on extrinsic motivation. Let's be honest with ourselves, who isn't at least a little enticed by points? The second most frequently utilised game element was level, is likely attributed to the fact that levels are the way that a gamer's progress is visualised to them. This, especially, would allow "for students to be the active protagonist of their own learning" (Lorenzo-Lledó et al., p. 870). The third most utilised game element is leaderboard, tapping into the social competition aspect and provides an opportunity for learners to participate with each other. Interestingly, the authors made it a point to mention that no trend has found to show which game elements are more effective in achieving learning outcomes, which again confirms that **gamification implementation must be adaptive.**
@@ -28,6 +29,7 @@ It also provides gaps and implications for future research on the topic of K-12 
 - examine the effects of different gamification elements on intrinsic and extrinsic motivation in different educational contexts
 - use data from gamified learning environments (eg, scores, assessments, time spent engaged in the app)
 - consider the sustainability of gamification (authors suggest longitudinal studies)
+
 With the exception of the final gap, I believe the first three are all gaps that I can potentially fill (or at least a little bit) with my proposed project. For instance, with the knowledge now that different gamification elements potentially targeting intrinsic and extrinsic motivation, I can angle my research to contributing findings to that area but in the context of private music education, which I believe to be a field that requires a lot of motivation on the students' part. Additionally, as my research does surround a digital gamified learning platform, I can also use data generated from said platform to inform my findings. 
 
 
