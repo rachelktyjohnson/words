@@ -20,7 +20,7 @@ Just like many other systematic reviews, this one also compiles a list of game e
 
 Additionally, the authors propose an evidence-informed framework, in line with Biggs' (2003) 3P framework, in order to guide teachers and scholars as they develop gamified learning environments. This adapted framework was also used to conduct their systematic review and analysis.
 
-INSERT IMAGE HERE I haven't figured out how to do that yet
+![3P adapation](/assets/images/class3P_adaptation.jpg)
 
 In my opinion, it is a well substantiated framework that carefully considers the theory of the original and interlaces the concept of gamification. This is, however, the first framework that I have seen modified for gamification, so I may have a more informed opinion further down the track. Regardless, I think it's important to adapt existing pedagogically sound frameworks for education as it gives us a strong basis.
 
