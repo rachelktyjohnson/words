@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Literature Review - Dehghanzadeh et al. (2025)"
+comments: false
+description: ""
+keywords: "gamification, systematic review, literature review"
+---
+
 This systematic review by Dehghanzadeh et al. aimed to synthesis research findings regarding the use of gamification in K-12 education. Just like the review by Lorenzo-Lledo et al. (2023), these authors use the PRISMA framework, but employed a narrative analysis approach as opposed to a thematic analysis approach. In their analysis, gamification was found to be potentially effective for "promoting cognitive, affective and behavioural learning outcomes in K-12 education, primarily by stimulating students' motivation and raising their level of engagement" (Dehghanzadeh et al., 2024, p. 61), as most reviewed articles report a "positive effect... on various cognitive, affective and behavioural learning outcomes" (Dehghanzadeh et al., 2024, p. 60). Although my age range of interest is more niche than this (3-8yo), the review still provides valuable insights, especially from the studies that focus on my age range and those close to it. As my area of education is private music, which hinges completely on a student's motivation to practice and persevere, the idea of stimulating a students' motivation and raising their level of engagement is especially relevant to me.
 
 The authors found that articles associated positive findings to a student's internal processes when engaging in a game environment (eg, motivation, feeling involved, competition), stating that such feelings, when applied to learning, will increase student engagement. I find myself wondering about the connections between this and Csikszentmihalyi's idea of Flow. In terms of motivation, both extrinsic and intrinsic motivation can be tapped into using gamification, with external rewards (points and badges) targeting extrinsic motivation, and elements that affect learner's needs for competence and autonomy (Eg, challenges, collaboration, curiosity) targeting intrinsic motivation. It is worth noting that 'competence' and 'autonomy' are two out of three basic psychological needs of Self-Determination Theory, which is an interesting connection. I have also been "warned" by existing literature that gamification will never be the answer to motivation, as it takes something much deeper to affect a learner intrinsically. So, it is comforting and also surprising to see the authors connecting certain game elements to intrinsic motivation. 
@@ -21,3 +29,9 @@ It also provides gaps and implications for future research on the topic of K-12 
 - use data from gamified learning environments (eg, scores, assessments, time spent engaged in the app)
 - consider the sustainability of gamification (authors suggest longitudinal studies)
 With the exception of the final gap, I believe the first three are all gaps that I can potentially fill (or at least a little bit) with my proposed project. For instance, with the knowledge now that different gamification elements potentially targeting intrinsic and extrinsic motivation, I can angle my research to contributing findings to that area but in the context of private music education, which I believe to be a field that requires a lot of motivation on the students' part. Additionally, as my research does surround a digital gamified learning platform, I can also use data generated from said platform to inform my findings. 
+
+
+### References
+- Biggs, J. (2003). Constructing learning by aligning teaching: Constructive alignment. In Teaching for quality learning at university (2nd ed., pp. 11–33). The Society for Research into Higher Education & Open University Press.
+- Dehghanzadeh, H., Farrokhnia, M., Dehghanzadeh, H., Taghipour, K., & Noroozi, O. (2024). Using gamification to support learning in K-12 education: A systematic literature review. British Journal of Educational Technology, 55(1), 34–70. https://doi.org/10.1111/bjet.13335
+- Lorenzo-Lledó, A., Vázquez, E. P., Cabrera, E. A., & Lledó, G. L. (2023). Application of gamification in Early Childhood Education and Primary Education: Thematic analysis. Retos, 50, 858–875. https://doi.org/10.47197/retos.v50.97366
