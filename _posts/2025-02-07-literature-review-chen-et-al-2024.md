@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Literature Review - Chen et al. (2024)"
+comments: false
+description: ""
+keywords: "literature review, flipped classroom, gamification, ebook, interactive ebook"
+---
+
+This empirical study by Chen et al. (2024) aimed to propose and test the effectiveness of a **self-regulated gamified interactive ebook** within the setting of a **flipped** mathematics classroom. The theoretical framework was made up of **self-determination theory**, **self-regulated learning**, and **flipped classroom** pedagogy. The study itself was a **quasi-experimental comparative study** between three randomised groups: two experimental groups - self-regulated gamified interactive ebook (S-GIEB) and just a gamified interactive ebook (GIEB) - and one control group - a traditional flipped classroom (TFC). It took place over **3 weeks** with **120 sixth-grade students** from **one primary school** in Zhengzhou City, China. Their measurements for "effectiveness" were **learning achievement, self-regulation abilities, learning motivation, and meta-cognition tendencies**, each measured using a specific instrument that was justified for the task. 
+
+The use of a S-GIEB in a flipped classroom setting is beneficial across the measurements of academic achievement, self-regulation, motivation, and meta-cognition. It consistently outperformed the experimental GIEB group and control TFC group in each area, suggesting that **the inclusion of a S-GIEB was the most effective learning strategy within a flipped classroom setting**. The self regulation aspects gave students the ability to take control of their independent learning outside of the classroom, and the gamification elements kept students motivated throughout the independent learning.
+
+However, and this limitation is well acknowledged by the authors, the sample size and study period were too narrow and can benefit from a larger scope. While the timeline of the study was over three weeks, students were only exposed to the S-GIEB, GIEB, or TFC over one week. **In the context of private music learning, one week not enough to apply any intervention and study its effects on students.** According to the procedure outlined in the article, students were given one week with the treatment and then returned to class the following week and immediately tested. With anything new, such as a game elements on a digital platform, students would instantly be more motivated and interested in engaging with the content (like learning a new instrument), but that naturally fades out over time. The study could be strengthened by extending the treatment duration to investigate whether participants' motivations diminish over time. The idea of fading motivations is especially important to my area of research, as we often see students start their musical learning journey with high motivation and it often fades out very quickly.
+
+An intervention like the one presented in this empirical study will be an interesting one to replicate in a private instrumental learning context. Home practice can be considered a form of flipped learning, and therefore the aspects of self-determination and self-regulation in an individual setting is extremely applicable. However, even in an established private music school setting, all students are at different levels and learning at different speeds and curriculums. It would be difficult to gather a large number of students that are at the same learning content to apply the same intervention to and gather generalisable results. I believe a similar intervention can be applied, but the participant sample, collection methods, measures, and analysis will have to be carefully considered based on the intervention.
+
+---
+
+## References
+- Chen, C., Jamiat, N., Abdul Rabu, S. N., & Mao, Y. (2024). Effects of a self-regulated-based gamified interactive e-books on primary students’ learning performance and affection in a flipped mathematics classroom. Education and Information Technologies, 29(18), 24143–24180. https://doi.org/10.1007/s10639-024-12789-7
